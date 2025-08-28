@@ -7,3 +7,4 @@ Training was performed on 2x A100 PCIe GPUs and each update was performed on  16
 
 Below is a summary of the training loss progression during pre-training (one step is 50 updates):
 
+<img width="3456" height="1856" alt="W B Chart 28_08_2025, 15_56_35" src="https://github.com/user-attachments/assets/c4003d5b-df87-4031-b101-b815fcb246b4" />
