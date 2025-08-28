@@ -14,5 +14,5 @@ LoRA was applied to selectively fine-tune the model, reducing the number of trai
 
 ## Training Loss
 
-Below is a summary of the training loss progression during fine-tuning:
+Below is a summary of the training loss progression during pre-training:
 
