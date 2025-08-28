@@ -5,7 +5,9 @@ This repository contains a Transformer model implementation following the archit
 ## Training
 Training was performed on 2x A100 PCIe GPUs and each update was performed on  16 384 tokens (GPT2 tokenizer)
 
-I used mixed precision learning especially bfloat16 for training and float32 for stored weights.
+Unfortunately due to insufficinet funds trainnig lasted only 30minutes and costed 2 dollars
+
+I used mixed precision learning especially bfloat16 for training and float32 for stored weights
 
 Below is a summary of the training loss progression during pre-training (one step is 50 updates):
 
